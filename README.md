@@ -196,6 +196,48 @@ RL = 4700 ohms
 
 P = 2.54*2.54*4700 = 30.3 mW
 
+6.5.4. Mida la potencia empleando un vatimetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
+
+RL = 220 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087615-0ef4c542-a514-44ce-9490-3e5486d015f6.png)
+
+RL = 470 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087628-ee12ed40-b776-4d9f-8b91-906953a4ccf7.png)
+
+RL = 680 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087635-5fd09756-5720-409c-bf01-245390301aeb.png)
+
+RL = 820 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087647-adfe0082-7e0f-4804-a25f-a0c01c8017e3.png)
+
+RL = 1000 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087666-1c2b8e43-d5ac-423c-9753-3c56cb6705cc.png)
+
+RL = 1500 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087676-603e1c9b-9fa6-4ac3-a608-83d8bd02a602.png)
+
+RL = 1800 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087690-f49d6591-f37d-4138-927d-c1d665bdfe53.png)
+
+RL = 2200 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087705-a864619c-47b7-432a-878c-4f50ed1da00c.png)
+
+RL = 3900 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087717-a8f44f4b-0210-47be-83db-a3ec6614cd9a.png)
+
+RL = 4700 ohms
+
+![image](https://user-images.githubusercontent.com/94011974/179087739-4d7278d9-571c-4151-9b6e-f5c10eeaa3af.png)
+
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/94011974/179074570-fa127ba6-f08a-4177-a95e-54cf7bf2b05d.png)
