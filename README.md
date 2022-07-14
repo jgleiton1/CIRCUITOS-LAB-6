@@ -82,7 +82,7 @@ RL = 2200 ohms
 
 I = 15/1200+2200 = 4.41 mA
 
-P = 4.41*4.41*2200 = 33.7 mW
+P = 4.41*4.41*2200 = 42.78 mW
 
 RL = 3900 ohms
 
@@ -186,7 +186,7 @@ P = 5*5*1800 = 45 mW
 
 RL = 2200 ohms
 
-P = 4.41*4.41*2200 = 33.7 mW
+P = 4.41*4.41*2200 = 42.78 mW
 
 RL = 3900 ohms
 
@@ -214,7 +214,9 @@ Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia d
 
 6.5.7. Grafique la curva Potencia vs RL y comente
 
+![image](https://user-images.githubusercontent.com/94011974/179076708-5226610a-1993-4d4c-a2c2-77bf0d061b6b.png)
 
+La grafica es creciente pero la potencia llega un punto donde comienza a reducirse nuevamente
 
 ***
 
