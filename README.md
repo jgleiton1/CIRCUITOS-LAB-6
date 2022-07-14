@@ -34,7 +34,7 @@ formula de ley de ohm y calcular potencia
 
 I = V/R 
 
-P = I*I*RL
+P = (I)(I)(RL)
 
 RL = 220 ohms
 
