@@ -240,7 +240,7 @@ RL = 4700 ohms
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![image](https://user-images.githubusercontent.com/94011974/179074570-fa127ba6-f08a-4177-a95e-54cf7bf2b05d.png)
+![image](https://user-images.githubusercontent.com/94011974/179089984-ab0cc1ea-74a9-49b1-8840-f9adfcbc94f6.png)
 
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
