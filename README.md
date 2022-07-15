@@ -222,43 +222,43 @@ P = 2.54*2.54*4700 = 30.3 mW
 
 RL = 220 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087615-0ef4c542-a514-44ce-9490-3e5486d015f6.png)
+![image](https://user-images.githubusercontent.com/105259459/179258956-8e396dcb-86bd-49a3-b48e-3b0803a41972.png)
 
 RL = 470 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087628-ee12ed40-b776-4d9f-8b91-906953a4ccf7.png)
+![image](https://user-images.githubusercontent.com/105259459/179259304-f0dd7d68-652b-4d8b-9a5b-d00ecd90ea90.png)
 
 RL = 680 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087635-5fd09756-5720-409c-bf01-245390301aeb.png)
+![image](https://user-images.githubusercontent.com/105259459/179259766-fcaa9adf-e4e2-419e-b51e-27c8ea045b69.png)
 
 RL = 820 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087647-adfe0082-7e0f-4804-a25f-a0c01c8017e3.png)
+![image](https://user-images.githubusercontent.com/105259459/179259940-79c45611-1716-4d80-b1ed-16d9d8257647.png)
 
 RL = 1000 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087666-1c2b8e43-d5ac-423c-9753-3c56cb6705cc.png)
+![image](https://user-images.githubusercontent.com/105259459/179257662-37f52328-5865-45b3-abbf-a2f8f9991127.png)
 
 RL = 1500 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087676-603e1c9b-9fa6-4ac3-a608-83d8bd02a602.png)
+![image](https://user-images.githubusercontent.com/105259459/179260202-ef73cae2-f56b-4cfb-ada8-5b60c1f9774a.png)
 
 RL = 1800 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087690-f49d6591-f37d-4138-927d-c1d665bdfe53.png)
+![image](https://user-images.githubusercontent.com/105259459/179260331-81618355-f6a2-4a13-b439-2ddc53d55289.png)
 
 RL = 2200 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087705-a864619c-47b7-432a-878c-4f50ed1da00c.png)
+![image](https://user-images.githubusercontent.com/105259459/179260466-e837f8e4-08b2-4758-8a12-2f6b13523a29.png)
 
 RL = 3900 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087717-a8f44f4b-0210-47be-83db-a3ec6614cd9a.png)
+![image](https://user-images.githubusercontent.com/105259459/179260595-2d6b7ce0-0bb4-4fda-8bbe-413f910a43b0.png)
 
 RL = 4700 ohms
 
-![image](https://user-images.githubusercontent.com/94011974/179087739-4d7278d9-571c-4151-9b6e-f5c10eeaa3af.png)
+![image](https://user-images.githubusercontent.com/105259459/179260750-1aab4358-1ac4-4d05-a829-8c21879d44b4.png)
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
