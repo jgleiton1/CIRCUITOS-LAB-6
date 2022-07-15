@@ -262,9 +262,9 @@ RL = 4700 ohms
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105259459/179266336-a4532f78-f477-40d9-aaea-4f9bef4a311d.png)
 
-6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumento su respuesta.
 
 Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
 
