@@ -14,9 +14,18 @@
 
    **1.1. Objetivo General** 
 
+Comprobar de forma teórica y experimental el Teorema de Máxima Transferencia de Potencia, mediante el desarrollo del presente laboratorio, usando herramientas como Tinkerkad y ACDCLAB, para afianzar los conocimientos adquiridos en clase.
 ***
 
   **1.2. Objetivos Específicos:**
+
+-	Explicar mediante mapas conceptuales en qué consiste el Teorema de la Máxima Transferencia de Potencia, a partir de una búsqueda bibliográfica. 
+
+-	Analizar el comportamiento de un circuito mediante la aplicación del Teorema de la MTP y comprobar los resultados obtenidos teóricamente de la potencia máxima en RL.
+
+-	Justificar el desarrollo del laboratorio, mediante la presentación de un video, en el que se explique la resolución del Teorema de Máxima Transferencia de Potencia.
+
+-	Comparar los resultados que se obtienen analíticamente, experimentalmente y emitir el porcentaje de error.
 
 ***
 
