@@ -306,7 +306,7 @@ https://www.youtube.com/watch?v=E987tpY7owU
 
 -	En la justificación del video se pude observar la resolución del teorema de máxima transferencia de potencia con cada una de las resistencias dadas, construcción del circuito en el simulador tinkercad, podemos observar como se toman las medidas de corriente y voltaje indicadas. También se realiza el circuito en el software ACDCLAB y medimos la potencia con el vatímetro.
 
--	Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del Teorema de Máxima Transferencia de potencia son precisos, llegando a tener un rango de exactitud entre 99.9% y el 99.7% por lo que concluye que el método es muy fiable para resolver este tipo de circuitos eléctricos.
+- Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del Teorema de Máxima Transferencia de potencia son precisos, por lo que podemos decir que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 ***
 
