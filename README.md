@@ -275,6 +275,8 @@ La grafica es creciente pero la potencia llega un punto donde comienza a reducir
 
 ![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
 
+![image](https://user-images.githubusercontent.com/105259459/179148972-68680148-8547-4326-8acf-90854f7f76c0.png)
+
 ***
 
 **7. Vídeo**
