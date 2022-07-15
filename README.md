@@ -14,7 +14,7 @@
 
    **1.1. Objetivo General** 
 
-Comprobar de forma teórica y experimental el Teorema de Máxima Transferencia de Potencia, mediante el desarrollo del presente laboratorio, usando herramientas como Tinkerkad y ACDCLAB, para afianzar los conocimientos adquiridos en clase.
+Comprobar teórica y experimentalmente el Teorema de Máxima Transferencia de Potencia, mediante el desarrollo del presente laboratorio, usando herramientas como Tinkerkad y ACDCLAB, para afianzar los conocimientos adquiridos en clase.
 ***
 
   **1.2. Objetivos Específicos:**
