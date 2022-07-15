@@ -280,7 +280,7 @@ No se cumple puesto que una fuente de voltaje entrega la máxima transferencia d
 
 ![image](https://user-images.githubusercontent.com/94011974/179076708-5226610a-1993-4d4c-a2c2-77bf0d061b6b.png)
 
-La grafica es creciente pero la potencia llega un punto donde comienza a reducirse nuevamente.
+La grafica es creciente pero la potencia llega un punto donde comienza a reducirse nuevamente, curva que crece con rapidez pero decrece de forma mas reducida
 
 ***
 
