@@ -176,7 +176,7 @@ P = 2.54*2.54*4700 = 30.3 mW
 
 Formula para calcular la potencia
 
-P = I*I*RL
+P = (I)(I)RL
 
 RL = 220 ohms
 
