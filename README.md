@@ -37,9 +37,10 @@ Comprobar teórica y experimentalmente el Teorema de Máxima Transferencia de Po
 
 ![image](https://user-images.githubusercontent.com/105686218/179153123-a82e44ea-e150-470f-9fa8-1ab405b6fb96.png)
 
-![image](https://user-images.githubusercontent.com/105686218/179153132-9a5ca595-55b3-46f3-9680-477e6ec70d01.png)
+![image](https://user-images.githubusercontent.com/105686218/179153323-5f1d2545-658f-4a17-a039-175b587d5ea0.png)
 
-![image](https://user-images.githubusercontent.com/105686218/179153153-f59e93d6-55a1-4328-8cfe-488b7e3106ce.png)
+![image](https://user-images.githubusercontent.com/105686218/179153256-580c21bc-65cc-4d18-9e4c-995ada5c0b39.png)
+
 
 ![image](https://user-images.githubusercontent.com/105686218/179153175-fc861bd5-47e4-4c76-86bd-469760e23f16.png)
 
