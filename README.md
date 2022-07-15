@@ -266,7 +266,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumento su respuesta.
 
-Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
+No se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la casi máxima transferencia de potencia.
 
 6.5.5. ¿Cuál fue la potencia máxima en RL?
 
@@ -280,7 +280,7 @@ Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia d
 
 ![image](https://user-images.githubusercontent.com/94011974/179076708-5226610a-1993-4d4c-a2c2-77bf0d061b6b.png)
 
-La grafica es creciente pero la potencia llega un punto donde comienza a reducirse nuevamente
+La grafica es creciente pero la potencia llega un punto donde comienza a reducirse nuevamente.
 
 ***
 
